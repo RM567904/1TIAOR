@@ -1,0 +1,1 @@
+# Repositorio de atividades do curso de IA
