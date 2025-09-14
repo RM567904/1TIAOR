@@ -9,7 +9,12 @@
 
 Repositório com o modelo e imagens: [Github](https://github.com/RM567904/1TIAOR/tree/main/fase1/cap2)
 
-## II. Prints das principais etapas do projeto, incluindo da taxa de acurácia final.
+<!-- Quebra de página -->
+<div style="page-break-after: always;"></div>
+
+## II. Principais etapas do projeto
+
+Prints das principais etapas do projeto, incluindo da taxa de acurácia final.
 
 ![Teste](images/etapas/teste1.png)
 ![Teste](images/etapas/teste2.png)
@@ -22,6 +27,9 @@ Repositório com o modelo e imagens: [Github](https://github.com/RM567904/1TIAOR
 ![Teste](images/etapas/teste9.png)
 ![Teste](images/etapas/teste10.png)
 
+<!-- Quebra de página -->
+<div style="page-break-after: always;"></div>
+
 | Teste | Resultado esperado | Acurácia |
 |-------|--------------------|----------|
 |  Conjunto de Panelas | Panela |  98% |
@@ -33,6 +41,9 @@ Repositório com o modelo e imagens: [Github](https://github.com/RM567904/1TIAOR
 |  Garfo e Colher (Epoch = 70) | Talher | 63% |
 |  Utensilios de Madeira | Utensilios | 100% |
 |  Utensilios de Plastico | Utensilios | 99% |
+
+<!-- Quebra de página -->
+<div style="page-break-after: always;"></div>
 
 ## III. Explicação de como cada etapa foi realizada.
 
