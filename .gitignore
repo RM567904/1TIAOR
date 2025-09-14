@@ -1,0 +1,25 @@
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Dados
+# *.csv
+# *.png
+# *.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+```
