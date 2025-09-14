@@ -7,7 +7,7 @@
 - Aprender a utilizar o Teachable Machine para criar modelos de IA interativos.
 - Avaliar a eficiência do modelo desenvolvido na detecção e classificação de utensílios de cozinha.
 
-Repositório com o modelo e imagens: [Github](https://github.com/RM567904/1TIAOR/tree/main/fase1/cap2)
+Repositório com o modelo e imagens: [https://github.com/RM567904/1TIAOR/tree/main/fase1/cap2](https://github.com/RM567904/1TIAOR/tree/main/fase1/cap2)
 
 <!-- Quebra de página -->
 <div style="page-break-after: always;"></div>
