@@ -1,2 +1,5 @@
-Farmtech em R: https://youtu.be/zSGKp3eRCbI
-Farmtech em Python: https://youtu.be/N1GVMDp3FRA
+
+Link para o projeto no Github: https://github.com/RM567904/1TIAOR/tree/main/fase1/cap1
+
+Video Farmtech em R: https://youtu.be/zSGKp3eRCbI
+Video Farmtech em Python: https://youtu.be/N1GVMDp3FRA
