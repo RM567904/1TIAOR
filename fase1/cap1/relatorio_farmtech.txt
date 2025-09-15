@@ -1,0 +1,61 @@
+FARMTECH SOLUTIONS - RELATÓRIO DE ANÁLISE
+15/09/2025 14:30:05
+
+📊 ANÁLISE DE ÁREAS DE PLANTIO
+--------------------------------
+Total de áreas cadastradas: 1
+Área total (m²): 500000.00
+Área total (hectares): 50.00
+
+📈 Estatísticas de Área (m²):
+  Média: 500000.00
+  Desvio Padrão: NA
+  Mediana: 500000.00
+  Mínimo: 500000.00
+  Máximo: 500000.00
+  Coeficiente de Variação: NA%
+
+💊 ANÁLISE DE MANEJO DE INSUMOS
+--------------------------------
+Total de aplicações: 1
+
+📊 Por Tipo de Aplicação:
+
+Pulveriza��o:
+  Número de aplicações: 1
+  Quantidade média: 100000.00
+  Desvio padrão: NA
+  Total aplicado: 100000.00
+
+🧪 Por Tipo de Insumo:
+
+Fosfato:
+  Aplicações: 1
+  Quantidade total: 100000.00
+  Média: 100000.00
+  Desvio padrão: 0.00
+
+🌾 Por Cultura:
+
+Caf�:
+  Total de aplicações: 1
+  Quantidade média por aplicação: 100000.00
+  Quantidade total aplicada: 100000.00
+
+
+🌤️ DADOS METEOROLÓGICOS
+------------------------
+📍 Local: Guarulhos, BR
+⚠️ Usando dados simulados (configure sua API key para dados reais)
+
+🌡️ Temperatura: 20.4°C
+🌡️ Sensação térmica: 18.4°C
+💧 Umidade: 67%
+☁️ Condição: Parcialmente nublado
+💨 Vento: 3.3 m/s
+☔ Probabilidade de chuva: 19%
+
+🌾 ANÁLISE PARA AGRICULTURA:
+✅ Temperatura adequada para a maioria das culturas
+✅ Umidade em níveis adequados
+✅ Condições de vento favoráveis para pulverização
